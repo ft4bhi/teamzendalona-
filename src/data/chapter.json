@@ -1,9 +1,9 @@
 
 [
   {
-    "id": 1
-    "name": "Banglore",
+    "id": 1,
+    "name":"Banglore",
     "image": "/images/bangalore.png"
 
-  },
+  }
 ]
